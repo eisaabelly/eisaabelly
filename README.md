@@ -1,2 +1,3 @@
 <div align="center">
-<img src="https://i.redd.it/8jqj1311bdeb1.gif">
+  <img src="https://media.tenor.com/onsdAh1E9zgAAAAM/sonic-sonic-the-hedgehog.gif" width="450" alt="Sonic GIF">
+</div>
